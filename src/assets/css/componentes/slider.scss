@@ -1,0 +1,26 @@
+.slider{
+    min-height: 416px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider1{
+    background-image: url('../../img/slider/slide1.jpg');
+}
+.slider2{
+    background-image: url('../../img/slider/slide2.jpg');
+}
+.slider3{
+    background-image: url('../../img/slider/slide3.jpg');
+}
+.slider4{
+    background-image: url('../../img/slider/slide4.jpg');
+}
+.title{
+    color:$white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px $black;
+    font-size: 3em;
+    min-height: 416px;
+}

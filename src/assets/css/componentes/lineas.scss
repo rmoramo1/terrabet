@@ -1,0 +1,47 @@
+.odds-span,
+.odds-spanTeam {
+    width: 8.5%;
+    min-width: 75px;
+    float: left;
+    padding: 5px 0;
+}
+.odds-spanTeam {
+    width: 15%;
+}
+.img_logo {
+    max-width: 80px;
+    max-height: 80px;
+}
+.quince_spans {
+    width: 6.6%;
+    white-space: nowrap;
+    overflow: hidden;
+
+    img {
+        width: 50px;
+    }
+}
+.bb1px {
+    border-bottom: 1px solid rgba($text_dest, .30);
+}
+.bb2px {
+    border-bottom: 2px solid rgba($text_dest, .80);
+}
+.diez_nueve_spans {
+    width: 5.2%;
+    white-space: nowrap;
+    overflow: hidden;
+
+    img {
+        width: 50px;
+    }
+}
+.diez_spans {
+    width: 10%;
+    white-space: nowrap;
+    overflow: hidden;
+
+    img {
+        width: 50px;
+    }
+}

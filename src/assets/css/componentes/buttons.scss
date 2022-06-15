@@ -1,0 +1,26 @@
+.btn_login {
+    background: $btn;
+    color: $white;
+    font-weight: bold;
+
+    &:hover {
+        background: $btn_hover;
+    }
+}
+button {
+    color: $white !important;
+    ;
+    &:hover {
+        color: $white !important;
+    }
+}
+.btn_span {
+    button {
+        color: $white !important;
+        ;
+
+        &:hover {
+            color: lighten($title, 30) !important;
+        }
+    }
+}

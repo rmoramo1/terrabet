@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: $bg;
+}
+
+.mh85 {
+    min-height: 85vh;
+}
+
+.bg_black {
+    background-color: $black;
+}
+
+.bg_light {
+    background: $bg;
+}
+
+.bg_spans {
+    background-color: $spans;
+}
+
+.bg_title {
+    background: $title;
+}
+
+.shadow_title {
+    box-shadow: 3px 3px 5px $black, -3px -3px 5px $black;
+}
+
+.text_dest {
+    color: $text_dest;
+}
+a{
+    color: $text_dest;
+}
